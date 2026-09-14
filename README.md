@@ -1,27 +1,42 @@
-# Guía Previa de Laboratorio: Maqueta DWDM
+# 🌐 Guía Previa de Laboratorio: Maqueta DWDM
 
-**Área Académica:** Telecomunicaciones
-**Carrera:** Ingeniería en Telecomunicaciones, Conectividad y Redes
-**Sede:** INACAP La Serena
-**Estudiante / Integrantes:** Francheska Constanza Tapia Pizarro
-**Asignatura:** Redes ópticas[cite: 1]
+> **Repositorio oficial de documentación técnica y procedimientos operativos para sistemas de transporte óptico multicanal.**
 
-**Resumen del Proyecto**
-Este repositorio sirve como manual de referencia y documentación previa para las sesiones presenciales de laboratorio. El objetivo es garantizar un uso seguro, eficiente y profesional de la maqueta de laboratorio de multiplexación por división de longitud de onda densa (DWDM). Todo el proyecto está estructurado mediante el uso de Git y Markdown.
+---
 
-**Índice de Contenidos**
-La información del proyecto se encuentra organizada de forma estrictamente modular en la carpeta `docs/`. Puedes acceder a cada sección haciendo clic en los siguientes enlaces:
+### 📋 Información Académica
+* **Asignatura:** Redes Ópticas
+* **Área:** Ingeniería en Telecomunicaciones, Conectividad y Redes
 
-* [01. Fundamentos Teóricos](docs/01-fundamentos-teoricos.md)[cite: 1]
-* [02. Inventario de Equipos](docs/02-inventario-equipos.md)[cite: 1]
-* [03. Manual de Configuración](docs/03-manual-configuracion.md)[cite: 1]
-* [04. Esquemas de Red](docs/04-esquemas-red.md)[cite: 1]
+### 👥 Integrantes del Equipo
+* 👩‍💻 **Francheska Tapia**
+* 👨‍💻 **Leandro Rain**
 
-**Lista de Verificación de Avance**
-Estado de desarrollo de cada sección obligatoria del repositorio:
+---
 
-- [ ] **Fundamentos Teóricos:** Definición DWDM, espectro, modulación óptica y normativas ITU-T documentadas.
-- [ ] **Inventario de Equipos:** Descripción de los 7 componentes de la maqueta (MTX150x, RXT4510, CSS610, ODF, HT6000, Carretes y OVA).
-- [ ] **Manual de Configuración:** Medidas de seguridad, aprovisionamiento del chasis HT6000 y procedimientos de medición.
-- [ ] **Esquemas de Red:** Diagramas de conexiones físicas y mapeo de puertos respaldados en la carpeta `diagramas/`[cite: 1].
-- [ ] **Control de Versiones:** Historial de commits descriptivos realizado en Git[cite: 1].
+## 🎯 Resumen del Propósito
+Este repositorio sirve como **manual de referencia y documentación técnica previa** a las sesiones presenciales de laboratorio. Su objetivo principal es garantizar la manipulación segura, eficiente y profesional de la maqueta de multiplexación por división de longitud de onda densa (DWDM). Aquí se estructuran los principios físicos, configuraciones de equipos y diagramas topológicos necesarios para operar la red de transporte.
+
+---
+
+## 📑 Índice de Contenidos
+Explora las distintas secciones de nuestra documentación haciendo clic en los siguientes enlaces:
+
+- [📘 01. Fundamentos Teóricos de DWDM](docs/01-fundamentos-teoricos.md)
+- [📦 02. Inventario y Descripción de Equipos](docs/02-inventario-equipos.md)
+- [⚙️ 03. Manual Operativo y de Configuración](docs/03-manual-configuracion.md)
+- [🗺️ 04. Esquemas Topológicos de Red](docs/04-esquemas-red.md)
+
+---
+
+## ✅ Lista de Verificación (Estado de Avance)
+Control del desarrollo de las secciones obligatorias del proyecto:
+
+- [ ] **Fundamentos Teóricos:** Normativas ITU-T, grillas espectrales y modulación óptica documentadas.
+- [ ] **Inventario de Equipos:** Descripción técnica de analizadores (MTX150x, RXT4510), chasis HT6000, ODF, switch, carretes y atenuadores.
+- [ ] **Manual de Configuración:** Procedimientos de seguridad láser, aprovisionamiento de servicios y pruebas de medición.
+- [ ] **Esquemas de Red:** Diagramas de conexión física, mapeo de puertos y flujo de señales.
+- [ ] **Estructura del Proyecto:** Alojamiento en Git con historial de *commits* descriptivos y formato Markdown validado.
+
+---
+*Documentación elaborada con fines académicos.*
