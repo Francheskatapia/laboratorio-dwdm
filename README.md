@@ -1,4 +1,4 @@
-# 🌐 Guía Previa de Laboratorio: Maqueta DWDM
+# Guía Previa de Laboratorio: Maqueta DWDM
 
 > **Repositorio oficial de documentación técnica y procedimientos operativos para sistemas de transporte óptico multicanal.**
 
@@ -9,12 +9,12 @@
 * **Área:** Ingeniería en Telecomunicaciones, Conectividad y Redes
 
 ### 👥 Integrantes del Equipo
-* 👩‍💻 **Francheska Tapia**
-* 👨‍💻 **Leandro Rain**
+*  **Francheska Tapia**
+*  **Leandro Rain**
 
 ---
 
-## 🎯 Resumen del Propósito
+##  Resumen del Propósito
 Este repositorio sirve como **manual de referencia y documentación técnica previa** a las sesiones presenciales de laboratorio. Su objetivo principal es garantizar la manipulación segura, eficiente y profesional de la maqueta de multiplexación por división de longitud de onda densa (DWDM). Aquí se estructuran los principios físicos, configuraciones de equipos y diagramas topológicos necesarios para operar la red de transporte.
 
 ---
@@ -29,7 +29,7 @@ Explora las distintas secciones de nuestra documentación haciendo clic en los s
 
 ---
 
-## ✅ Lista de Verificación (Estado de Avance)
+##  Lista de Verificación (Estado de Avance)
 Control del desarrollo de las secciones obligatorias del proyecto:
 
 - [ ] **Fundamentos Teóricos:** Normativas ITU-T, grillas espectrales y modulación óptica documentadas.
@@ -38,5 +38,4 @@ Control del desarrollo de las secciones obligatorias del proyecto:
 - [ ] **Esquemas de Red:** Diagramas de conexión física, mapeo de puertos y flujo de señales.
 - [ ] **Estructura del Proyecto:** Alojamiento en Git con historial de *commits* descriptivos y formato Markdown validado.
 
----
-*Documentación elaborada con fines académicos.*
+
