@@ -68,7 +68,7 @@ El despliegue de maquetas y sistemas de producción DWDM se rige estrictamente p
 
 ---
 
-## 5. Anexo Matemático y Físico: ¿De dónde salen los números?
+## 5. Anexo Matemático y Físico
 
 Para comprender los valores de espectro y atenuación mencionados anteriormente, es necesario aplicar principios físicos fundamentales de la luz electromagnética.
 
