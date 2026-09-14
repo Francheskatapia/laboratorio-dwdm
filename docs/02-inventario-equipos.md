@@ -7,7 +7,7 @@ Este documento detalla el inventario de hardware de la maqueta **DWDM** disponib
 ## 1. Vista General del Layout del Rack (Esquema Visual)
 
 El rack del laboratorio organiza los componentes de transmisión, agregación, simulación y medición de la siguiente manera:
-*(Nota: Aquí puedes incrustar una imagen del layout físico si cuentas con ella en la carpeta `diagramas/imagenes/`)*
+*(imagen del layout físico si cuentas con ella en la carpeta `diagramas/imagenes/`)*
 
 ## 2. Descripción Detallada de los Componentes
 
